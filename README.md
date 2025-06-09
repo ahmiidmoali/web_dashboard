@@ -1,16 +1,24 @@
 # ecommerce_admin_panel
 
-A new Flutter project.
+## Features
 
-## Getting Started
+### weekly analyzing data
 
-This project is a starting point for a Flutter application.
+- **orders per day progress**: charts for the amount of orders on the past 7 days.
+- **Orders status**: information about the orders' status to take action.
+- **top products**: information about the favorite sold items .
+ 
+### Orders Control
 
-A few resources to get you started if this is your first Flutter project:
+- **accepting and pereparing orders**: accepting and preparing orders and sending notifications for the users.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### products & categories Control
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Effortless Product Control**: Easily add, edit, and update product details, including descriptions, pricing, and high-quality images..
+- **Effortless Categories Control**: Easily add, edit, and update categories .
+
+### Customers caring
+
+- **top customers**: showing the top customers related to spending on the ecommerce.
+- **customers feedback**: showing customers'feedback about our services.
+
