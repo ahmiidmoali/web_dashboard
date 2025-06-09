@@ -26,11 +26,11 @@
 
 <table>
   <tr>
-    <td><img src="web_app_dashboard-screenshots/login -1.png" width=300 height=600></td>
+    <td><img src="web_app_dashboard-screenshots/login -1.png" width=600 height=300></td>
     
   </tr>
  <tr>
-    <td><img src="web_app_dashboard-screenshots/dashboard-1.png" width=300 height=600></td>
-   <td><img src="web_app_dashboard-screenshots/dashboard-2.png" width=300 height=600></td>
+    <td><img src="web_app_dashboard-screenshots/dashboard-1.png" width=600 height=300></td>
+   <td><img src="web_app_dashboard-screenshots/dashboard-2.png" width=600 height=300></td>
   </tr>
   </table>
