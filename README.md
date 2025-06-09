@@ -33,4 +33,20 @@
     <td><img src="web_app_dashboard-screenshots/dashboard-1.png" width=600 height=300></td>
    <td><img src="web_app_dashboard-screenshots/dashboard-2.png" width=600 height=300></td>
   </tr>
+   <tr>
+    <td><img src="web_app_dashboard-screenshots/orders -1.png" width=600 height=300></td>
+  
+  </tr>
+   <tr>
+    <td><img src="web_app_dashboard-screenshots/products-1.png" width=600 height=300></td>
+   <td><img src="web_app_dashboard-screenshots/add products 1.png" width=600 height=300></td>
+  </tr>
+   <tr>
+    <td><img src="web_app_dashboard-screenshots/categories-1.png" width=600 height=300></td>
+   <td><img src="web_app_dashboard-screenshots/add_categories -1.png" width=600 height=300></td>
+  </tr>
+    <tr>
+    <td><img src="web_app_dashboard-screenshots/customers-1.png" width=600 height=300></td>
+   
+  </tr>
   </table>
